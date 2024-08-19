@@ -33,11 +33,11 @@ Clone este repositório:
 - Insira os valores solicitados (peso e altura) para calcular o IMC e obter a classificação.
 
 # 📄 Exemplo de Uso
-bash
-Copiar código
-Calculadora de IMC
-Digite seu peso em kg: 70
-Digite sua altura em metros: 1.75
+- bash
+- Copiar código
+- Calculadora de IMC
+- Digite seu peso em kg: 70
+- Digite sua altura em metros: 1.75
 
 Seu IMC é: 22.86
 Classificação: Peso normal
